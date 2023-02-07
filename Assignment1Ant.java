@@ -2,11 +2,9 @@ package assignment1ant;
 
 /**
  *
- * @author Jonathan Sao Assignment 1
+ * @author Jonathan Sao
  *
- * This program maintains the use of Sets and Maps
- * @Sing January 23, 2023 I have followed the UNCG Academic Integrity policy on
- * this assignment
+ 
  */
 import java.io.File;
 import java.io.FileNotFoundException;
